@@ -1,7 +1,3 @@
-Evo **kompletnog ultra modernog README fajla** za tvoj GitHub profil, oblikovan prema tvojim uputama i uz dodatak malo kreativnosti:
-
----
-
 # 👋 Hi there, I'm **Domagoj Kasalo**  
 
 🚀 *Software developer | Tech enthusiast | Future-focused creator*  
@@ -74,13 +70,4 @@ When I’m not building applications, you’ll find me:
 
 ---
 
-### 🎉 Fun Fact  
-> *"I’ve built everything from smart homes and web apps to custom furniture and guitars!"*
-
----
-
 ### 💡 Let’s Build Something Great Together! 🚀  
-
----
-
-Ako želiš da dodamo još detalja ili dodatne animacije (npr. GitHub contribution grafikon, custom GIF-ove), samo reci. Spremno za implementaciju? 😊
