@@ -63,7 +63,6 @@ When I’m not building applications, you’ll find me:
 ---
 
 ### 📊 GitHub Stats  
-![Domagoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomagojKasalo&show_icons=true&theme=dark&count_private=true&hide=stars)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DomagojKasalo&layout=compact&theme=dark)  
 
