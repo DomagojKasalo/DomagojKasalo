@@ -1,11 +1,11 @@
 # 👋 Hi there, I'm **Domagoj Kasalo**  
 
-🚀 *Software developer | Tech enthusiast | Future-focused creator*  
+🚀 *Software developer | Tech enthusiast *  
 
 ---
 
 ### 🌟 About Me  
-I’m a software developer passionate about technology and programming. My journey started with small projects like **smart homes** using **Arduino Uno**, and it has grown to include web, mobile, desktop, and even **quantum computing** projects using **Qiskit**.  
+I’m a software developer passionate about technology and programming. My journey started with small projects like **smart homes** using **Arduino Uno**, and it has grown to include web, mobile, desktop applications.  
 Currently, I’m exploring new opportunities to **specialize** and make an impact in innovative and dynamic environments.  
 
 ---
@@ -38,7 +38,7 @@ Currently, I’m exploring new opportunities to **specialize** and make an impac
    - *Tech Used*: Java, Android  
 
 4. [**Locality Sensitive Hashing**](https://github.com/DomagojKasalo/lsh)  
-   Implementation of LSH for approximate nearest neighbor search.  
+   LSH is a simple implementation of a shell in C.  
    - *Tech Used*: C 
 
 5. [**Craft Products**](https://github.com/DomagojKasalo/Craft-Products)  
@@ -50,7 +50,6 @@ Currently, I’m exploring new opportunities to **specialize** and make an impac
 ### 🏀 Outside of Coding  
 When I’m not building applications, you’ll find me:  
 - 🏈 **Playing flag football** – I proudly represent the **Croatian national team**.  
-- 🏀 Shooting hoops in my local basketball team.  
 - 🎸 **Playing guitar** and enjoying music.  
 - 🛠️ Working on **carpentry projects** – from furniture to custom-made kitchens.  
 
