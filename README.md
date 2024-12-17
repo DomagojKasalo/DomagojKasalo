@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Domagoj Kasalo**  
 
-🚀 *Software developer | Tech enthusiast *  
+🚀 **Software developer | Tech enthusiast**
 
 ---
 
